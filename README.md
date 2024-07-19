@@ -38,6 +38,11 @@ Follow these steps to set up and run the project on your local machine:
 
 # 📸 Screenshots
 - Screenshot 1
+- ![Screenshot 2024-07-19 194750](https://github.com/user-attachments/assets/b8120012-7db0-4d09-8678-521bad8abd68) ![Screenshot 2024-07-19 194852](https://github.com/user-attachments/assets/5dd7fe2a-b210-418a-afe8-866c03175563)
+- ![Screenshot 2024-07-19 195248](https://github.com/user-attachments/assets/d6e8657b-85f8-4c13-bf54-d8c181f32963)
+
+
+
 
 # 🤝 Contributing
 - Contributions are welcome! Feel free to submit issues and pull requests.
